@@ -22,7 +22,7 @@ A fixed panel only faces the sun well for a few hours. A tracker keeps the panel
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/helio-track.git
+git clone https://github.com/<b3nF>/helio-track.git
 cd helio-track
 pip install -r requirements-dev.txt
 pytest -q
